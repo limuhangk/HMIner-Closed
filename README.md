@@ -1,4 +1,4 @@
-# HMIner-Closed
+# HMiner-Closed
 Note: This is the implementation of HMiner-Closed algorithm by reference to the pseudo code of the paper, not the implementation by the author of the paper.
 
 This repository contains the source code for the paper "An efficient method for mining high utility closed itemsets", published in Information Sciences journal. For more information, please contact the main author.
